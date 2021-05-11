@@ -1,0 +1,26 @@
+﻿@page
+@model SimpleUsage.Pages.DataDemoModel
+@{
+}
+<form>
+    <p>
+        Search: <input type="text" asp-for="SearchTerm"/>
+        <input type="submit" value="Search" />
+    </p>
+</form>
+<p>
+    <ul>
+        @foreach (var person in Model.People)
+        {
+            <li> @person.FirstName @person.LastName</li>
+        }
+    </ul>
+</p>
+<p>
+    <h2>Add a new Person</h2>
+    <form method="post">
+        <div> First Name : <input asp-for="NewPerson.FirstName" /></div>
+        <div> Last Name : <input asp-for="NewPerson.LastName" /></div>
+        <input type="submit" value="Create Person" />
+    </form>
+</p>

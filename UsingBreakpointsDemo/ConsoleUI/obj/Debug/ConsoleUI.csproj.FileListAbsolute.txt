@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.exe
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.deps.json
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.dll
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\bin\Debug\netcoreapp3.1\ConsoleApp2Lesson07.pdb
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.dll
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.pdb
+C:\Users\User\source\repos\ConsoleApp2Lesson07\ConsoleApp2Lesson07\obj\Debug\netcoreapp3.1\ConsoleApp2Lesson07.genruntimeconfig.cache

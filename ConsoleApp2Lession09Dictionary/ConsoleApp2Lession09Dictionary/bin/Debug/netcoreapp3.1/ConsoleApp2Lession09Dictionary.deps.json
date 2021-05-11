@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp2Lession09Dictionary/1.0.0": {
+        "runtime": {
+          "ConsoleApp2Lession09Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2Lession09Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
