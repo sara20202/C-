@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebAPIE.Model
+namespace WebAPIE.Models
 {
     public class Department
     {

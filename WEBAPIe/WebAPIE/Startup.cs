@@ -12,6 +12,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Serialization;
+using System.IO;
+using Microsoft.Extensions.FileProviders;
 
 namespace WebAPIE
 {
@@ -58,7 +60,9 @@ namespace WebAPIE
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebAPIE v1"));
+                app.UseSwaggerUI(c => 
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebAPIE v1")
+                );
             }
 
             app.UseHttpsRedirection();
@@ -70,6 +74,13 @@ namespace WebAPIE
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(Directory.GetCurrentDirectory(), "Photos")),                   
+                    RequestPath = "/Photos"
             });
         }
     }
